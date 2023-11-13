@@ -1,0 +1,1 @@
+{'question': 'Where do I go when a landlord is not returning security deposit.  It is now 60 days since vacating apartment.Gave 90 days written notice.  Met all lease obligations', 'answer': 'If in NYC, when the Small Claims Court opens, you can commence a case there.'}

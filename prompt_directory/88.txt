@@ -1,0 +1,1 @@
+{'question': 'I got a default judgement against me from unpaid rent . They are garnishing my wages however there was another personAre they supposed to garnish my wages for all unpaid debt or are they supposed to make me pay half', 'answer': 'Generally, when a lease is signed by co-tenants, each co-tenant is responsible to the landlord for the full amount of the rent.'}

@@ -1,0 +1,1 @@
+{'question': 'My friend died and left me the house we lived in.  I have the will and the death certificate. What do i do next?Is there a time period in which this must be done?', 'answer': 'You must probate the will, and then transfer the house from the estate to you.  The fee will depend upon the value of the house and other assets.'}

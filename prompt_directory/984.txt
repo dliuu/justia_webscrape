@@ -1,0 +1,1 @@
+{'question': 'the 20-day arbitration window does that include Sat and SundayStony Point, NY asked on November 15, 2021 in Real Estate Law for New York', 'answer': 'Yes. If the last day falls on a weekend or holiday it extends to the end of the next business day.'}

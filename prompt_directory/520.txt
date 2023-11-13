@@ -1,0 +1,1 @@
+{'question': 'a person with no relatives or heirs to his estate.  no will .  was married to my sister.they finalized the divorce 20 years ago.  can she inherit his home', 'answer': 'A final judgment of divorce terminates any rights to claim heirship based upon marriage.  If an individual dies without legal heirs, their assets escheat (or revert) to the State.'}

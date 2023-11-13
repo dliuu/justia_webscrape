@@ -1,0 +1,1 @@
+{'question': 'Hello, \n \nI have a question regarding a purchase contract for a residential propertyis a contract dead after the expiration date if the buyer backs out at last minute and neither party evoked time of essence. This contract is in NYS. There were no contingencies on the contract that were not met by either party.', 'answer': 'No, unless the contract so provides.'}

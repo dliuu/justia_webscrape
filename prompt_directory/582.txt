@@ -1,0 +1,1 @@
+{'question': 'We just sold our farm (not our permanent residence). Most equipment was still in barns and new owners said no hurry.Papers are signed and new owners say everything is theirs if each item had not been specified as ours. Do they now own our things?', 'answer': 'The contract governs your deal.  Whatever it says about the property governs.'}

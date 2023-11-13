@@ -1,0 +1,1 @@
+{'question': 'We own a small rental property that is currently leased to someone. They left for an extended holiday and left the heatOff resulting in pipes breaking and flooding property for 1-5 days. They have agreed to pay repairs. It is uninhabitable. Are they still responsible for paying rent during repairs?', 'answer': 'It depends on the terms of the lease.'}

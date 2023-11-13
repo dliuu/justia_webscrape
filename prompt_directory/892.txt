@@ -1,0 +1,1 @@
+{'question': 'Hello i live in queens ny and house i live in is in foreclosure &amp; is going to be auctioned jan 24 2020. Whats my rightsAlready in foreclosure. \nBeing auctioned 1/24/20.', 'answer': 'Are you the owner or the tenant?  If you are the tenant, you have the same rights you had before, including a lease.'}

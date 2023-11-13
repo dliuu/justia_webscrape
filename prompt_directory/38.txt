@@ -1,0 +1,1 @@
+{'question': 'Can a landlord contract out (eg lease says 60 days) of the NYC law to return a security deposit in 14 days?New York, NY asked on September 19, 2023 in Landlord - Tenant for New York', 'answer': 'Dear Manhattan Tenant  \n \nNo. This is a Statewide law. Private lease agreements that are contrary are without any legal effect.'}

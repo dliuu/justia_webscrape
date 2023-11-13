@@ -1,0 +1,1 @@
+{'question': 'How long does it take to close on a house that was sold at auction? ( New York )The property was auctioned on January 29, 2020 . As of today’s date July 10,2020 there has been no closing.', 'answer': 'In NY you are generally required to close within 30 days of winning an auction.'}

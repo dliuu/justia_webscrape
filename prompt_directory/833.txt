@@ -1,0 +1,1 @@
+{'question': 'I share a driveway with my neighbor and we have a 2 car garage in the back. How would I go about buying his part?The drive way is an easement and the garages are attached on our respective properties.', 'answer': 'You would have to subdivide his lot and then convey the subdivided lot to you.'}

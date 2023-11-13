@@ -1,0 +1,1 @@
+{'question': 'Hi, what happen if I break the commercial lease due to slow business due corona ?can landlord go after me( my personnel asset ex: bank account .... )  if I break the lease again due to the slow business cause of corona', 'answer': 'Yes you could be held liable, but you would need to be name in the lease as the lessee or a guarantor to the lease.'}

@@ -1,0 +1,1 @@
+{'question': 'In order to sell a family owned home in New York City, is it necessary to produce the original deed?Assuming of course that the deed was properly filed with the City at the time of the original purchase.', 'answer': 'You do not need the original deed.  The recorded imaged deed is relied upon by buyers and their lawyers.'}

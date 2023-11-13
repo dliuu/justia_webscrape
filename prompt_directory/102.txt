@@ -1,0 +1,1 @@
+{'question': 'A church owns a house in Orange County NY and our Bishop lives there. How can we transfer it to him?Brooklyn, NY asked on August 2, 2022 in Real Estate Law for New York', 'answer': 'If the church that owns the property is a non-profit, which is extremely likely, the proposed transfer would have to have the approval of the NY Attorney General or the Court.'}

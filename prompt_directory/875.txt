@@ -1,0 +1,1 @@
+{'question': 'I am a owner of a condominium. The community is being sued. Do we as owners have a right to know. Board say noDo they have a right to withhold this information from the owners', 'answer': 'You have a right to see books and records of financial information.  But cases are public.  Type it in the computer and look it up.'}

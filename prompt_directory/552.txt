@@ -1,0 +1,1 @@
+{'question': 'I have a judgment entered in September 2012 in the amount of $2745 .00 in Niagara County , NY.Judgement was secured against real property which was sold . Can I seek action against the new owner?', 'answer': 'Yes.  If what you say is true.'}

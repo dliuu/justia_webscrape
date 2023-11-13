@@ -1,0 +1,1 @@
+{'question': 'what are the pros and cons of land lease buildingsi have to move. i saw a coop in my budget but dont want to get into some deal that comes back to bite me in a few years', 'answer': 'You have to distinguish between a private land lease and a public.  The public ones, like Hudson Yards are fine.  The private ones should be avoided.  There are no pros.'}

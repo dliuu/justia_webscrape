@@ -1,0 +1,1 @@
+{'question': 'My spouse passed away. Both names on mortgage. My name primary. Do I need to change the mortgage contract?Wells, NY asked on September 3, 2021 in Banking and Real Estate Law for New York', 'answer': 'No.  Just keep paying.  If you are both on deed, same answer.  If not, you may need to do an estate proceeding.'}

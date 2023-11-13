@@ -1,0 +1,1 @@
+{'question': 'evicting disabled studentParents have a disabled daughter scheduled to attend grad school', 'answer': 'Currently all evictions are stayed as a result of the Covid-19 breakout.'}

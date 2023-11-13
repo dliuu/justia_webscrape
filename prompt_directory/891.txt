@@ -1,0 +1,1 @@
+{'question': 'I’m on a deed to a house along with my ex boyfriend.  The mortgage is in his name.  He’s filing for bankruptcy.What does it mean for me on the house? What will happen to the house?  Will I lose the house?', 'answer': 'It depends what the house is worth and how it is scheduled.  It might be sold, or nothing may happen.'}

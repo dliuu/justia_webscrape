@@ -1,0 +1,1 @@
+{'question': 'What happens if you buy or sell a property and the bathroom count is different than what is listed?Say there are supposed to be 1.5 bathrooms but instead there are 2?  What will happen when the bank appraises it for a mortgage?', 'answer': 'The listing is mere advertising, and does not count for anything.  The appraiser for the bank will make an accurate count.'}

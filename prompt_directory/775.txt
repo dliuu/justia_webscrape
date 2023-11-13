@@ -1,0 +1,1 @@
+{'question': 'If a house is built in 1906, should we as the buyers get a lead paint inspection prior to home purchase?Is this necessary? What happens if it comes back positive ?', 'answer': 'You should have an inspection by a licensed home inspector, who will be able to identify lead paint.'}

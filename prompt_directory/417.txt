@@ -1,0 +1,1 @@
+{'question': 'In NYC, if 2 tenants are on a lease, are those tenants permitted to take in a third occupant (non-family) as a roommate?The lease does not prohibit it and there is sufficient space. The NY laws are just confusing.', 'answer': 'No. See Real Property Law §235-f'}

@@ -1,0 +1,1 @@
+{'question': 'My mother would like to give me 3 acres of her 11 acre property so I can build a cabin. Tax implications?Angola, NY asked on September 23, 2020 in Real Estate Law for New York', 'answer': 'None, really.  But you need to do a subdivision to create a tax lot.'}

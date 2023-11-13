@@ -1,0 +1,1 @@
+{'question': 'evicting disabled studentParents have a disabled daughter scheduled to attend grad school', 'answer': 'At the moment we are in the midst of a 3 month stay of all eviction proceedings.'}

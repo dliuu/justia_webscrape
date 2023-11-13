@@ -1,0 +1,1 @@
+{'question': 'After the contract is signed what happens if the appraisal is below our bidding offer? We are using a VA LoanAdditional info: Individual is also a disabled veteran', 'answer': 'Generally, real estate contracts provide an option for you to cancel the contract in those circumstances.'}

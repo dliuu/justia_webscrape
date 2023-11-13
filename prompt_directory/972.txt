@@ -1,0 +1,1 @@
+{'question': 'Are unsigned email agreements legally binding?House I&#039;ve been renting 5 years was sold. New owners offered cash for me to move soon (possible but not ideal). If I move and they don&#039;t pay, do I have recourse?', 'answer': 'Unsigned email exchanges can be legally binding.  It depends if a complete agreement can be divined from them.'}

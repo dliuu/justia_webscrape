@@ -1,0 +1,1 @@
+{'question': 'Does a landlord need to compensate a tenant if he choices to move out before the end of the lease?Asked on July 14, 2020 in Landlord - Tenant for New York', 'answer': 'No, and the tenant may be liable to the landlord for the remaining term of the lease.'}

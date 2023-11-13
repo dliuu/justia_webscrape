@@ -1,0 +1,1 @@
+{'question': 'If our deed was declared void.  Can our neighbors get our house and land?  How do we get a new deed?Cancel', 'answer': '*** recordation ***.'}

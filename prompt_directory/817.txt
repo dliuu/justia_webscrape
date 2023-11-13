@@ -1,0 +1,1 @@
+{'question': 'We are doing a private home sale in New York. Can we ask the buyer to provide mortgage down payment information?Saratoga Springs, NY asked on May 30, 2020 in Contracts and Real Estate Law for New York', 'answer': 'Of course, you’re entitled to know if they can really afford to purchase your house.'}

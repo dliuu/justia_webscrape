@@ -1,0 +1,1 @@
+{'question': 'Where can I find bar discipline records?Albany, NY asked on June 2, 2017 in Legal Malpractice for New York', 'answer': 'Pretty much only in reported cases from the Appellate Division.'}

@@ -1,0 +1,1 @@
+{'question': 'My friend died and left me the house we lived in.  I have the will and the death certificate. What do i do next?Is there a time period in which this must be done?', 'answer': 'You must file a petition in Surrogates Court to be given power to probate the Will and administer the estate, which would include transferring the house.'}

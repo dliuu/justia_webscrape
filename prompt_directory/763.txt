@@ -1,0 +1,1 @@
+{'question': 'I have a weird question. Can closing/real estate lawyer steal broker commission?New York, NY asked on November 12, 2020 in Real Estate Law for New York', 'answer': 'Not legally, but logistically it is possible for it to happen, as many brokers do not come to a closing to get their check.'}

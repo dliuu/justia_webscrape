@@ -1,0 +1,1 @@
+{'question': 'If our deed was declared void.  Can our neighbors get our house and land?  How do we get a new deed?Cancel', 'answer': 'If a court declared the deed void, the inquiry would then be what preceded the execution and recreation of the deed. \n \nJack'}

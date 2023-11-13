@@ -1,0 +1,1 @@
+{'question': 'I want to cancel my attorney and real estate deal prior to a contract signing.Please cancel question.', 'answer': 'You can terminate him/her, but the retainer agreement with your attorney may say that you are responsible for the payment of the legal fee incurred in connection with your matter through the termination of the relationship.'}

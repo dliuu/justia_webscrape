@@ -1,0 +1,1 @@
+{'question': 'I am a homeowner in Brooklyn NY who has a deck that does not have a permit. Can I remedy this situation after the fact?Due to the recent storm my neighbor is complaining thar I flooded their basement due to improper drainage.', 'answer': 'Yes.  Find an architect willing to amend your certificate of occupancy and file for the permit, and then close it.'}

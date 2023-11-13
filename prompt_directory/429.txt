@@ -1,0 +1,1 @@
+{'question': 'my grandparents who are now both deceased the house is foreclosed. auction no one brought. can I call the bank?the house went up for auction twice but didn&#039;t sell. can I call the bank and attempt to get the mortgage reinstated ?', 'answer': 'No.  But you can call up and offer to buy it with your own mortgage.'}

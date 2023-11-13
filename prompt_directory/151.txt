@@ -1,0 +1,1 @@
+{'question': 'Is my landlord responsible for property stolen outside apartment building when tenant was refused to bring item insideItem was delivered but left outside because tenant was told not allowed to bring item inside apartment', 'answer': 'Probably not as this did not prevent the tenant from storing the item in a different location.'}

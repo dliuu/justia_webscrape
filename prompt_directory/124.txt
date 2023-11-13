@@ -1,0 +1,1 @@
+{'question': 'My mother and step-father (who are residents of NYS)own valuable real estate. If my mom passes away, do I have anyclaim to her share of the property?', 'answer': 'Depends on how the deeds are drawn.  Only if she is a tenant in common.'}

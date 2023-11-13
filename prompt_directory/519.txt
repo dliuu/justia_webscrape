@@ -1,0 +1,1 @@
+{'question': 'a person with no relatives or heirs to his estate.  no will .  was married to my sister.they finalized the divorce 20 years ago.  can she inherit his home', 'answer': 'No.  Everyone has some next of kin.  You just have to find it.'}

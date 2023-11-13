@@ -1,0 +1,1 @@
+{'question': 'Does an attorney representing the buyer in a sale of a house in NY State have a duty to ensure that the deed is recordedby a title company?', 'answer': 'No.  Recorded yes.  By a title company, no.'}

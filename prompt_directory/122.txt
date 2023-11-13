@@ -1,0 +1,1 @@
+{'question': 'My mother and step-father (who are residents of NYS)own valuable real estate. If my mom passes away, do I have anyclaim to her share of the property?', 'answer': 'Basically that depends on two factors -- how title to the property is held and whether your mother has a will.'}

@@ -1,0 +1,1 @@
+{'question': 'Is a contract legal binding if both party&#039;s sighned it has been notarized?Asked on December 26, 2021 in Estate Planning, Real Estate Law and Landlord - Tenant for New York', 'answer': 'It depends on what the contract was for, consideration involved, nature of the agreement, roles of the parties, etc.'}
